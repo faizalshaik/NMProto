@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/ApplicationCallback.java</file>
+            <file>file:/E:/Work/NMProto/src/com/google/protobuf/nano/MessageNano.java</file>
+            <file>file:/E:/Work/NMProto/src/com/google/protobuf/nano/CodedInputByteBufferNano.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/nano/CloseSessionNtf.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/SessionCallback.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/nano/SessionInfo.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/plugin/IRequest.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/nano/DeleteSessionPropertyReq.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/nano/PingRes.java</file>
+            <file>file:/E:/Work/NMProto/src/com/google/protobuf/nano/Extension.java</file>
+            <file>file:/E:/Work/NMProto/src/nmproto/MainWnd.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/nano/BasePacket.java</file>
+            <file>file:/E:/Work/NMProto/src/nmproto/SettingFrm.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/nano/EndMaintenanceNtf.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/TCPSessionManager.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/nano/SignInReq.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/nano/ClientProtocol.java</file>
+            <file>file:/E:/Work/NMProto/src/nmproto/NMProto.java</file>
+            <file>file:/E:/Work/NMProto/src/nmproto/GameSetting.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/network/socket/NetmarbleSocket.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/Result.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/nano/DeleteSessionPropertyRes.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/nano/PingReq.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/nano/GetSessionPropertyReq.java</file>
+            <file>file:/E:/Work/NMProto/src/com/google/protobuf/nano/CodedOutputByteBufferNano.java</file>
+            <file>file:/E:/Work/NMProto/src/com/google/protobuf/nano/InternalNano.java</file>
+            <file>file:/E:/Work/NMProto/src/com/google/protobuf/nano/WireFormatNano.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/TCPSession.java</file>
+            <file>file:/E:/Work/NMProto/src/nmproto/WebService.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/nano/SetSessionPropertyReq.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/plugin/ITCPSession.java</file>
+            <file>file:/E:/Work/NMProto/src/com/netmarble/core/nano/BaseProtocol.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="NMProto.jnlp">
+  <information>
+    <title>NMProto</title>
+    <vendor>kenb</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="NMProto.jar" size="135898" download="eager" />
+    <jar href="lib\async-http-client-2.11.0.jar" size="445014" download="eager" />
+    <jar href="lib\async-http-client-example-2.11.0.jar" size="4158" download="eager" />
+    <jar href="lib\async-http-client-netty-utils-2.11.0.jar" size="9906" download="eager" />
+    <jar href="lib\javax.activation-1.2.0.jar" size="78030" download="eager" />
+    <jar href="lib\netty-buffer-4.1.46.Final.jar" size="278511" download="eager" />
+    <jar href="lib\netty-codec-4.1.46.Final.jar" size="319530" download="eager" />
+    <jar href="lib\netty-codec-http-4.1.46.Final.jar" size="609226" download="eager" />
+    <jar href="lib\netty-codec-socks-4.1.46.Final.jar" size="119088" download="eager" />
+    <jar href="lib\netty-common-4.1.46.Final.jar" size="622224" download="eager" />
+    <jar href="lib\netty-handler-4.1.46.Final.jar" size="453883" download="eager" />
+    <jar href="lib\netty-handler-proxy-4.1.46.Final.jar" size="21952" download="eager" />
+    <jar href="lib\netty-reactive-streams-2.0.4.jar" size="21842" download="eager" />
+    <jar href="lib\netty-resolver-4.1.46.Final.jar" size="33155" download="eager" />
+    <jar href="lib\netty-transport-4.1.46.Final.jar" size="473233" download="eager" />
+    <jar href="lib\netty-transport-native-epoll-4.1.46.Final-linux-x86_64.jar" size="151888" download="eager" />
+    <jar href="lib\netty-transport-native-kqueue-4.1.46.Final-osx-x86_64.jar" size="110502" download="eager" />
+    <jar href="lib\netty-transport-native-unix-common-4.1.46.Final.jar" size="32965" download="eager" />
+    <jar href="lib\org.json-20130603.jar" size="69071" download="eager" />
+    <jar href="lib\reactive-streams-1.0.3.jar" size="11369" download="eager" />
+    <jar href="lib\slf4j-api-1.7.30.jar" size="41472" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="nmproto.NMProto"  name="NMProto" />
+  <update check="always"/>
+</jnlp>
